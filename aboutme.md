@@ -30,7 +30,7 @@ Degree:   MS Transportation Engineering & Master in City Planning\
 Fun fact: She recently discovered matcha and it has changed her life
 
 <div class="warning" style='background-color:#EDF2F7; color:#1A2067; border-left: solid #718096 4px; border-radius: 4px;'>
-<p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
+<p style='padding:0.7em; margin-left:10em; display: inline-block;'>
 <img src="https://user-images.githubusercontent.com/98291942/167273375-bb34e5a2-ffb9-41c4-862e-6766335ccfaa.png" style="zoom:70%;  float:right; padding:0.7em"/>
 <b>isomorphism</b>  &rarr;  In mathematics, an isomorphism is a structure-preserving mapping between two structures of the same type that can be reversed by an inverse mapping.<br>
 </p>
