@@ -15,7 +15,9 @@ Fun Fact: Owns a pair of Coldplay's drummer's drums sticks AND an autographed My
 
 
 **Lucia Game**\
-|From:     The hidden gem of South America, Ecuador\|![image](https://user-images.githubusercontent.com/98291942/167273375-bb34e5a2-ffb9-41c4-862e-6766335ccfaa.png#right)|
+| - | - |
+|---|---|
+|From:     The hidden gem of South America, Ecuador\| ![image](https://user-images.githubusercontent.com/98291942/167273375-bb34e5a2-ffb9-41c4-862e-6766335ccfaa.png#right)|
 Hobbies:  The extreme sport of socializing\
 Degree:   MS Transportaion Engineering\
 Fun Fact: She's legally illiterate
