@@ -10,7 +10,7 @@ Hobbies:  All things bike and crocheting\
 Degree:   MS Transportation Engineering & Master in City Planning\
 Fun Fact: Owns a pair of Coldplay's drummer's drums sticks AND an autographed Mylo Xylo special editon vinyl
 
-**Lucia Game**
+**Lucia Game**\
 From:     The hidden gem of South America, Ecuador\
 Hobbies:  The extreme sport of socializing\
 Degree:   MS Transportaion Engineering\
