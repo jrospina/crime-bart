@@ -1,16 +1,25 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Meet the Creative Minds
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Juliana R Ospina**
+From: The Magical Realism land of Colombia
+Hobbies: All things bike and crocheting
+Degree: MS Transportation Engineering & Master in City Planning
+Fun Fact: Owns a pair of Coldplay's drummer's drums sticks AND an autographed Mylo Xylo special editon vinyl
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Lucia Game**
+From: The hidden gem of South America, Ecuador
+Hobbies: The extreme sport of socializing
+Degree: MS Transportaion Engineering
+Fun Fact: She's legally illiterate
 
-What else do you need?
+**Edna Aguilar**
+From: The fun bordering neighbor, Mexico
+Hobbies: Campfire level guitar jamming and fake tattoos
+Degree: MS Transportation Engineering & Master in City Planning
+Fun fact: She recently discovered matcha and it has changed her life
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
