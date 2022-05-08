@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Crime Inside BART Stations
-subtitle: Each post also has a subtitle
+subtitle: Exploring BART Police Reports
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: [star, fork]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+First we looked at BART Police Reports which report on crimes that happen inside BART facilities including trains and stations. We manually extracted the data from [PDFs](https://www.bart.gov/sites/default/files/docs/02-2022%20Monthly%20Chief%27s%20Report%20CRB%2003162022.pdf) as it's not available in other formats. The graph below shows the number of Violent Crime reports per county. Aggravated assults and robbery are the most common forms of crime.
+
 
 **Here is some bold text**
 
