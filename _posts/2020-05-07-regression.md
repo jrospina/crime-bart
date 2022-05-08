@@ -12,10 +12,11 @@ Using ridership data collected from BART stations we used a negative binomial re
 
 ### Data Collection
 * Police Department Incident reports were gathered from San Francisco Open Data portal, from 2018 to 2021, the dataset included incident reports filed to the San Francisco Police Department online report system. 
-* Monthly ridership reports were collected from the BART official portal. Only entries from 2018 to 2021 to each station were taken into account for the modeling. * * Datasets for income, gender, race and ethnicity were taken from the US Census Bureau official site at census tract neighborhood level
+* Monthly ridership reports were collected from the BART official portal. Only entries from 2018 to 2021 to each station were taken into account for the modeling
+*  Datasets for income, gender, race and ethnicity were taken from the US Census Bureau official site at census tract neighborhood level
 * Impacts of the COVID-19 pandemic were included through number of new cases reported on San Francisco’s Open Data portal
 
-## Spatial Resolution
+### Spatial Resolution
 A coverage area division of San Francisco using Voronoi diagrams (or Thiessen polygons) was applied to determine the area of influence of BART stations. An additional buffer area of 800m around stations is created as direct catchment area. Crime, income and demographic data were attachet to a station of they fell within it's buffer. For overlapping buffers (stations that fall closer together), the Voronoi polygons were used as delimitants
 
 <img src="/assets/img/Buffer_Thiessen.png" width="5500">
