@@ -17,10 +17,8 @@ Using ridership data collected from BART stations we used a negative binomial re
 * Impacts of the COVID-19 pandemic were included through number of new cases reported on San Francisco’s Open Data portal
 
 ### Spatial Resolution
-A coverage area division of San Francisco using Voronoi diagrams (or Thiessen polygons) was applied to determine the area of influence of BART stations. An additional buffer area of 800m around stations is created as direct catchment area. Crime, income and demographic data were attachet to a station of they fell within it's buffer. For overlapping buffers (stations that fall closer together), the Voronoi polygons were used as delimitants
+A coverage area division of San Francisco using Voronoi diagrams (or Thiessen polygons) was applied to determine the area of influence of BART stations. An additional buffer area of 800m around stations is created as direct catchment area. Crime, income and demographic data were attachet to a station of they fell within it's buffer. For overlapping buffers (stations that fall closer together), the Voronoi polygons were used as delimitants. (_Thiessen polygons were made with QGIS but the buffers and the data join in Python_)
 
-<!-- <img src="/assets/img/Buffer_Thiessen.png">
-![Buffers](/assets/img/Buffer_Thiessen.png) -->
 ![Buffers](./assets/img/Buffer_Thiessen.png)
 
 ### Exploratory Data Analysis
