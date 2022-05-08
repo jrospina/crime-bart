@@ -12,7 +12,7 @@ First we looked at BART Police Reports which report on crimes that happen inside
 
 <!-- ![BartReports](../BartReports.png | width=200px) -->
 
-<img src="../BartReports.png" width="1500">
+<img src="../BartReports.png" width="5500">
 
 
 <!-- **Here is some bold text**
