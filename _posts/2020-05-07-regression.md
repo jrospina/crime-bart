@@ -3,7 +3,7 @@ layout: post
 title: Ridership Regression Model
 subtitle: The combined influence of crime on transit ridership at the stop level
 cover-img: /assets/img/bart_station_photo.jpg
-thumbnail-img: /assets/img/bart_station_photo.jpg
+thumbnail-img: /assets/img/bart_station_photo_b.jpg
 <!-- share-img: /assets/img/path.jpg -->
 tags: [books, test]
 ---
@@ -19,9 +19,9 @@ Using ridership data collected from BART stations we used a negative binomial re
 ### Spatial Resolution
 A coverage area division of San Francisco using Voronoi diagrams (or Thiessen polygons) was applied to determine the area of influence of BART stations. An additional buffer area of 800m around stations is created as direct catchment area. Crime, income and demographic data were attachet to a station of they fell within it's buffer. For overlapping buffers (stations that fall closer together), the Voronoi polygons were used as delimitants
 
-<img src="/assets/img/Buffer_Thiessen.png">
-![Buffers](/assets/img/Buffer_Thiessen.png)
-![Buffers](../assets/img/Buffer_Thiessen.png)
+<!-- <img src="/assets/img/Buffer_Thiessen.png">
+![Buffers](/assets/img/Buffer_Thiessen.png) -->
+![Buffers](./assets/img/Buffer_Thiessen.png)
 
 ### Exploratory Data Analysis
 The initial exploratory analysis was carried out to determine the patterns and relationships of all potential variables incorporated in the model. Fig. 4 shows the correlation matrix between all available variables collected and it allows a preliminary assessment of the relationship between entries and crime, showing there is a strong positive correlation between them. This is consistent with other authors' findings, the busiest stations often have the most crimes. Another important finding of this initial exploration relates to the trend of number of entries and number of crime incidents over the years 2018 to 2021. In Fig. 5, the number of entries suffered a steep reduction caused by the COVID-19 pandemic and the associated shelter in place measures taken at the state and federal levels in 2020. However, by 2021 and with the relaxation of such measurements, ridership has not recovered on the San Francisco BART stations and are on a continuous downward trend. In comparison, the number of crimes around BART stations followed a similar trend from 2019 to 2020, indicating that the pandemic also caused a possible decrease in the crime rates, as most of the city was under quarantine measures. Of interest for this study is the behavior of the crimes around stations from 2020 to 2021, which showed a significant increase opposed to the number of entries for that same period. Although there is a positive correlation between entry and crime around BART stations, further exploration of the possible causes for this increase in crime is necessary.
