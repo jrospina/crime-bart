@@ -13,11 +13,11 @@ First we looked at BART Police Reports which report on crimes that happen inside
 ![BartReports](../BartReports.png)
 
 
-**Here is some bold text**
+<!-- **Here is some bold text**
 
-## Here is a secondary heading
+<!-- ## Here is a secondary heading -->
 
-Here's a useless table:
+<!-- Here's a useless table:
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -78,4 +78,4 @@ You can add notification, warning and error boxes like this:
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box. -->
