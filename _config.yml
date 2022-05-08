@@ -256,7 +256,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - html_image
+#   - html_image
 
   
 
