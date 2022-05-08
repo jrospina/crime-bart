@@ -10,7 +10,7 @@ comments: crime, bart, bart police
 
 First we looked at BART Police Reports which report on crimes that happen inside BART facilities including trains and stations. We manually extracted the data from [PDFs](https://www.bart.gov/sites/default/files/docs/02-2022%20Monthly%20Chief%27s%20Report%20CRB%2003162022.pdf) as it's not available in other formats. The graph below shows the number of Violent Crime reports per county. Aggravated assults and robbery are the most common forms of crime.
 
-<!-- ![BartReports](../BartReports.png | width=200px) -->
+<!-- ![BartReports](../BartReports.png) -->
 
 <img src="../BartReports.png" width="5500">
 
