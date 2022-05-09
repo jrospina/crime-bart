@@ -4,12 +4,20 @@ title: Once upon a Crime on BART
 subtitle: A project on BART & Crime
 ---
 
-<title>Motivation & Research Question </title>
+<title>Motivation</title>
 
 <p>Safety and crime have the potential to affect travel mode choice. For example, female-identifying individuals are known to experience incidents of crime, such as sexual harassement, that make them feel unsafe and cause them to adjust their travel behavior to avoid public transit. To increase ridership, transit systems must address the varying needs of their riders to guarantee continued use of their systems.</p>
 
 <p>On this site we explore crime and ridership data for the Bay Area Rapid Transit (BART) and the City and County of San Francisco. In particular, we seek to answer the question: What is the spatial distribution of reported crime incidents around BART stations? This is meant to be a preliminary exploration to shed light on the possible relationship between crime and BART ridership. </p>
 
+
+<div class="callout">
+  <div class="callout-header">Callout Header</div>
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  <div class="callout-container">
+    <p>Some text...</p>
+  </div>
+</div>
 
 
 <div class="callout-left full">
@@ -20,13 +28,41 @@ subtitle: A project on BART & Crime
 
 </div>
 
-<!-- <h2>Crime Inside BART Stations</h2>
-First we looked at BART Police Reports which report on crimes that happen inside BART facilities including trains and stations. We manually extracted the data from PDFs as it's not available in other formats. The graph below shows the number of Violent Crime reports per county. Aggravated assults and robbery are the most common forms of crime.
+/* Callout box - fixed position at the bottom of the page */
+.callout {
+  position: fixed;
+  bottom: 35px;
+  right: 20px;
+  margin-left: 20px;
+  max-width: 300px;
+}
 
-<html-include src="PoliceReports.html"></html-include>
+/* Callout header */
+.callout-header {
+  padding: 25px 15px;
+  background: #555;
+  font-size: 30px;
+  color: white;
+}
 
-<h2>Crime Outside BART Stations</h2>
+/* Callout container/body */
+.callout-container {
+  padding: 15px;
+  background-color: #ccc;
+  color: black
+}
 
+/* Close button */
+.closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+}
 
-<h4>Crime Inside BART Stations</h4>
- -->
+/* Change color on mouse-over */
+.closebtn:hover {
+  color: lightgrey;
+}
