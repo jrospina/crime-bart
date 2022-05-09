@@ -3,7 +3,7 @@ layout: post
 title: Crime in BART's Catchment Areas
 subtitle: Interactive Map Exploration
 cover-img: /assets/img/bart_station_photo.jpg
-thumbnail-img: /assets/img/bart_station_photo_b.jpg
+thumbnail-img: /assets/img/bart_outside.jpg
 <!-- share-img: /assets/img/path.jpg -->
 tags: [books, test]
 ---
