@@ -1,5 +1,6 @@
 ---
 layout: page
+cover-img: /assets/img/team.jpg
 title: About
 subtitle: Meet the Creative Minds
 ---
