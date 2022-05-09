@@ -1,5 +1,6 @@
 ---
 layout: page
+cover-img: /assets/img/team.jpg
 title: About
 subtitle: Meet the Creative Minds
 ---
@@ -24,4 +25,4 @@ Fun Fact: She's legally illiterate
 From:     The fun bordering neighbor, Mexico\
 Hobbies:  Campfire level guitar jamming and fake tattoos\
 Degree:   MS Transportation Engineering & Master in City Planning\
-Fun fact: She recently discovered matcha and it has changed her life\
+Fun fact: She recently discovered matcha and it has changed her life
