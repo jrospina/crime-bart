@@ -10,78 +10,19 @@ comments: crime, bart, bart police
 
 We looked at BART Police Reports which report on crimes that happen inside BART facilities such as trains and stations. We manually extracted the data from [PDFs](https://www.bart.gov/sites/default/files/docs/02-2022%20Monthly%20Chief%27s%20Report%20CRB%2003162022.pdf) as it's not available in other formats. 
 
-The graphs below shows the number of Violent Crime reports by crime per county per year. Aggravated assults and robbery are the most common forms of crime when looking at the whole system.
+The graphs below show the number of Violent Crime reports by crime per county per year. 
+
+Some notes: (1) Aggravated assault is an attack that causes serious bodily harm to another person; (2) For the Homocide graph, most data for counties was unavailable so a zero count should be interpreted as no data available.
+
+<img src="../assets/img/HomocideReports.png" align="center" width="550"/>  | <img src="../assets/img/RapeReports.png" align="center" width="550"/>
+:------------------------------------------------------------------------- |:--------------------
+ <img src="../assets/img/AggravatedAssaultReports.png" align="center" width="550"/>  |   <img src="../assets/img/RobberyReports.png" align="center" width="550"/>
+
 
 ### Observations
+* Alameda County had the most reports for all crime categories except for rape 
+* San Mateo County had the least number of reports across all categories
+* Systemwide, robbery is the most common crime followed by aggravated assault
+* In San Francisco, robbery is the most common crime followed by aggravated assault
+* Reduced crime counts in 2020 and 2021 are likely due to the effects of the COVID-19 pandemic
 
-<!-- ![BartReports](../BartReports.png) -->
-
-<img src="../BartReports.png" width="5500">
-
-
-<!-- **Here is some bold text**
-
-<!-- ## Here is a secondary heading -->
-
-<!-- Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box. -->
