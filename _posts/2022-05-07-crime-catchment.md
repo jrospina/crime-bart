@@ -10,10 +10,10 @@ tags: [books, test]
 Here we explore the spatial and time dimensions of crime reports to undestand how crimes has changed over time outside BART stations.
 
 ### Crime in Space
-First we start by looking at the spatial distribution of crime across the entire city. The map below shows the number of crime reports by census tract as well as an 800 meter buffer representing the catchment area of each station.
+First we start by looking at the spatial distribution of crime across the entire city. The map below shows the number of crime reports by census tract as well as an 800 meter buffer representing the catchment area of each station. An 800 m buffer was chosen since BART it is a regional transit system, people are more likely to walk a longer distance
 
 <p align = "center">
-  <iframe src="../assets/img/folium_map.html" height="500" width="500"></iframe>
+  <iframe src="../assets/img/folium_map.html" height="500" width="700"></iframe>
 </p>
 
 <p align="center">
