@@ -3,6 +3,7 @@ layout: post
 title: Crime Inside BART Stations
 subtitle: Exploring BART Police Reports
 gh-repo: daattali/beautiful-jekyll
+thumbnail-img: /assets/img/Bart.jpg
 gh-badge: [star, fork]
 tags: [test]
 comments: crime, bart, bart police
