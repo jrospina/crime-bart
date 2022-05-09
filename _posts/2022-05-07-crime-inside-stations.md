@@ -15,14 +15,15 @@ The graphs below show the number of Violent Crime reports by crime per county pe
 
 Some notes: (1) Aggravated assault is an attack that causes serious bodily harm to another person; (2) For the Homocide graph, most data for counties was unavailable so a zero count should be interpreted as no data available.
 
-<img src="../assets/img/HomocideReports.png" align="center" width="550"/> 
+<p align="center">
+  <img src="../assets/img/HomocideReports.png" align="center" width="550"/> 
+ 
+  <img src="../assets/img/RapeReports.png" align="center" width="550"/>
+ 
+  <img src="../assets/img/AggravatedAssaultReports.png" align="center" width="550"/> 
 
-<img src="../assets/img/RapeReports.png" align="center" width="550"/>
-
-<img src="../assets/img/HomocideReports.png" align="center" width="550"/>  | <img src="../assets/img/RapeReports.png" align="center" width="550"/>
-:------------------------------------------------------------------------- |:--------------------
- <img src="../assets/img/AggravatedAssaultReports.png" align="center" width="550"/>  |   <img src="../assets/img/RobberyReports.png" align="center" width="550"/>
-
+  <img src="../assets/img/RobberyReports.png" align="center" width="550"/>
+</p>
 
 ### Observations
 * Alameda County had the most reports for all crime categories except for rape 
