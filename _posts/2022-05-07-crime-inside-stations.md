@@ -33,3 +33,6 @@ Some notes: (1) Aggravated assault is an attack that causes serious bodily harm 
 * In San Francisco, robbery is the most common crime followed by aggravated assault
 * Reduced crime counts in 2020 and 2021 are likely due to the effects of the COVID-19 pandemic
 
+_____
+Photo: [KTVU](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/03/764/432/bart.jpg?ve=1&tl=1)
+
