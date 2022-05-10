@@ -52,3 +52,6 @@ The regression indicates a positive correlation between number of passengers and
 
 ### Conclusions
 In San Francisco, the COVID-19 pandemic has affected the relationship between crime and ridership around BART stations, and as crime has increased, so has ridership. The most important takeaway from our model is finding that before the pandemic, the negative binomial regression showed that crime had a negative correlation with ridership and was highly significant. This initial finding could implicate stations that had more crimes and saw less ridership. Post-pandemic, we believe there was not enough ridership to get a significant relationship between crime and ridership to draw conclusions. However, we these findings highlight the need for BART to take actions to address crime and safety perception to increase ridership. 
+
+_____
+Photo: [SFGate](https://s.hdnux.com/photos/33/64/67/7294439/11/ratio3x2_2300.jpg)
