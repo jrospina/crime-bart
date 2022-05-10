@@ -63,3 +63,6 @@ Finally, for this graph we considered only crime categories that are relevant to
         
 ## Future Work
 To date, BART does not have hourly ridership data available. It would be interesting to compare crime occurance times with ridership counts by hour of day to see if there is any correlation between transit peak hours and incident time. We'd be interested in answering the question: do crimes happen the most during the times BART experiences high demand?
+  
+ _____________
+  Photo: [Curbed SF](https://cdn.vox-cdn.com/thumbor/E_HGYouTsXdrlMEAQD9MPwD4Ndg=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/12549257/185492789.jpg.jpg)
