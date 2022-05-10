@@ -23,7 +23,7 @@ Next we looked at crimes that were located within the catchment area or zone of 
   <iframe src="../assets/img/buffers.html" height="500" width="700"></iframe>
 </p>
 
-This figure shows crime reports per station per year. The stations with hightes reported crimes are Powell Street and Civic Center, while the stations with lowest are Glen Park and Balboa Bark. Overall, throughout the years the number of crimes reported has decrased.
+This figure shows crime reports per station per year. The stations with the highest reported crimes are Powell Street and Civic Center, while the stations with lowest are Glen Park and Balboa Bark. Overall, throughout the years the number of crimes reported has decrased, likely due to the pandemic.
 
 <p align="center">
   <img src="../assets/img/BarPlot Crimes per Station.png" width="700"/>
