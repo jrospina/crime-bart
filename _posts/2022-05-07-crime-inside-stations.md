@@ -36,6 +36,9 @@ Some notes: (1) Aggravated assault is an attack that causes serious bodily harm 
 ### Takeaways
 Crimes inside BART facilities are prevelant and could be addressed by improving security measures. We recongize that BART has recently made addressing gender safety a priority through their [Not One More Girl](https://www.bart.gov/guide/safety/gbv/campaign) campaign, and as a result they have hired and trained more personnel to handle sexual harassement incidents. As the graphs in this post show, however, robbery and aggravated assaults are the most common types of crimes and we think BART would benefit from having increased security personnel on trains and stations that can respond to these more aggresive forms of crime.
 
+### Recommendations
+We believe that BART should make internal crime reports available in other formats so that it can be analyzed more easily. BART could also provide more specific data that describes crimes per station. This information could go a long way in helping BART better tailor their safety strategies.
+
 _____
 Photo: [KTVU](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/03/764/432/bart.jpg?ve=1&tl=1)
 
